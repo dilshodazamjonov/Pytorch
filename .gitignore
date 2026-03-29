@@ -18,6 +18,9 @@ wheels/
 *.svg
 *.csv
 *.json
+*.txt
+*.log
 
 # dirs
 animal-faces/
+bean-leaf-lesions-classification/
